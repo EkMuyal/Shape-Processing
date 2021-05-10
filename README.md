@@ -8,3 +8,5 @@ the folders are:
 - Meger_Overlaping : Here You can merge the polygons of one shape file that are overlapping.
 
 and there is a file called: "GDAL-2.3.0-cp27-cp27mu-manylinux1_x86_64.whl" this file is a wheel to install gdal for python2
+
+I just found a source with many wheels for gdal and many other libraries https://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal
